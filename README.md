@@ -1,3 +1,3 @@
-# Python_practise
+# Python_practice
 
 * Self learning and practicing.
